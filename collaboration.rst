@@ -1,0 +1,6 @@
+Collaboration
+=============
+
+Le soluzioni in quest’ambito, già parzialmente adottate (sistemi di collaborazione di mercato), permettono di integrare diversi strumenti, assicurando un’esperienza di lavoro fluida che aiuta i gruppi di lavoro ad operare con maggiore efficienza ovunque si trovino i vari membri, mediante qualsiasi dispositivo e migliorando, quindi, il livello di comunicazione e di interazione tra le organizzazioni e le persone. Da un lato potenziando la produttività individuale, consentendo agli utenti di risparmiare tempo nello svolgimento delle proprie mansioni e di accedere alle informazioni in modo più flessibile e veloce. Dall’altro supportando l’operatività aziendale, favorendo l’interazione di una pluralità di persone coinvolte nei vari processi.
+
+A contribuire a questa evoluzione sono le soluzioni di collaborazione che integrano i servizi di fonia, connettività, sistemi di condivisione di file, immagini, audio e video in modalità sincronizzata. Chat, presenza, audio, video e servizi telefonici avanzati integrati, dunque, saranno erogati attraverso una piattaforma che risiede nel cloud disponibile su qualunque dispositivo, in mobilità, con benefici sulla produttività dell’Istituto.

@@ -1,0 +1,5 @@
+Sistemi ERP e CRM
+================= 
+  
+È comune, presso molte organizzazioni, disporre di una sorta di processo per le risorse umane, per la contabilità, per il procurement ma i sistemi software spesso lavorano separatamente e non interagiscono al meglio tra loro. Ciò che rende utile l’adozione di software ERP basati su tecnologie Cloud SaaS è proprio la messa a disposizione, in un ambiente operativo unico ed omogeneo, di tutte le funzionalità necessarie e l'interazione tra tutti questi processi, in modo da disporre di un sistema unico e nel quale far convergere tutti i dati e le informazioni generate intorno alle tipiche attività di natura gestionale (tipicamente: gestione del personale, gestione degli asset, gestione acquisti, gestione magazzini, connessione con i sistemi di contabilità).
+ 
