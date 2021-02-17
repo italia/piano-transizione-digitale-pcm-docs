@@ -6,10 +6,10 @@ La gestione del cambiamento descritta in questo paragrafo è di tipo organizzati
 Il percorso di gestione del cambiamento prevede lo sviluppo delle seguenti linee di azione.
 
 .. figure:: /images/figura1.png
-   :alt: Figura 1: Framework di gestione del cambiamento
+   :alt: Framework di gestione del cambiamento
    :scale: 60 %
 
-   *Figura 1: Framework di gestione del cambiamento*
+   *Framework di gestione del cambiamento*
  
  
 Il modello per guidare il cambiamento
@@ -34,18 +34,18 @@ Durante la prima fase del processo di gestione del cambiamento sarà definita la
 In considerazione dell’organizzazione estremamente articolata della PCM e del livello di autonomia dei vari Dipartimenti sarà fondamentale abilitare il cambiamento attraverso un approccio strutturato che mitighi la resistenza delle persone attraverso i seguenti pilastri di gestione:
 
 .. figure:: /images/figura2.png
-   :alt: Figura 2: Gestione del cambiamento
+   :alt: Gestione del cambiamento
    :scale: 60 %
 
-   *Figura 2: Gestione del cambiamento*
+   *Gestione del cambiamento*
    
 Inoltre, sarà necessario definire le responsabilità e i ruoli per la guida della governance del percorso di cambiamento descritte nel seguente diagramma organizzativo:
 
 .. figure:: /images/figura3.png
-   :alt: Figura 3: Organizzazione governance del cambiamento
+   :alt: Organizzazione governance del cambiamento
    :scale: 60 %
 
-   *Figura 3: Organizzazione governance del cambiamento*
+   *Organizzazione governance del cambiamento*
  
  
 Per supportare l’intera organizzazione in questa fase sarà costituito un apposito Team di lavoro, coincidente con quello che coadiuva il Responsabile della Transizione al Digitale, che costituirà un costante riferimento in tutte le fasi di attuazioni del presente piano e che, all’occorrenza, potrà attivare il reperimento di eventuali competenze complementari.
